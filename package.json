@@ -1,0 +1,26 @@
+{
+  "name": "basics",
+  "version": "1.0.0",
+  "description": "Basic MEAN Stack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kcookvt/basicmeanstack.git"
+  },
+  "author": "Kaiden Cook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kcookvt/basicmeanstack/issues"
+  },
+  "homepage": "https://github.com/kcookvt/basicmeanstack#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.4.6"
+  }
+}
